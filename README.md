@@ -90,6 +90,3 @@ streamlit run app.py
 1. Once both services are running and the Streamlit interface is loaded, click the **🚀 Process & Index Documents** button in the sidebar. This will parse all files in `/data`, split them into sentence-aware chunks, generate embeddings locally, and build your FAISS index.
 2. Once indexed, type your query in the chat box at the bottom.
 3. Watch the answer stream in real-time, backed by expandable **Grounded Reference Sources** showing the exact document name, chunk index, and similarity scores used to generate the answer.
-
-
-Demo Video Link : https://drive.google.com/file/d/144VkjaX59I4MTinAQ_Kb2x-nJblmqJ8P/view?usp=sharing
